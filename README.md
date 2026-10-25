@@ -57,3 +57,10 @@ The business will initially focus on one university city before considering expa
 LoopTop combines affordability, convenience, technical support, and sustainability in one student-focused subscription service.
 
 For example, a student could subscribe to a refurbished
+
+
+
+looptop-refurbished-laptop-subscription/
+├── README.md
+└── report/
+    └── LoopTop_Business_Case_Report.pdf
